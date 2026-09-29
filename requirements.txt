@@ -1,0 +1,5 @@
+# Requirements for running source code:
+# None (Standard Library only: os, sys, struct, zlib, threading, tkinter)
+
+# Requirements for building standalone .EXE from source:
+pyinstaller>=6.0.0
