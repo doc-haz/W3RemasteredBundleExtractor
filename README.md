@@ -102,7 +102,7 @@ No game files or copyrighted CD Projekt RED assets are included with this projec
 
 ## Author
 
-**DocHaz**
+**doc_haz**
 
 - GitHub: https://github.com/doc-haz
 - Nexus Mods: https://www.nexusmods.com/witcher3/mods/13054
