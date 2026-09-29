@@ -7,7 +7,7 @@ Standalone unpacker and GUI extractor for **The Witcher 3: Wild Hunt — Remaste
 ## Features
 
 - **POTATO70 v5 (Remastered / Next-Gen) Support**: Fully compatible with modern 64-bit offsets, 304-byte metadata entries, and 16-byte alignment.
-- **POTATO70 v3 (Classic) Backward Compatibility**: Supports older 32-bit offset bundles (320-byte entries) — Experimental / Unverified: Compatibility code is included, but this format has not yet been validated against a known classic bundle.
+- **POTATO70 v3 (Classic) Backward Compatibility**: Supports older 32-bit offset bundles (320-byte entries) — (Experimental / Unverified: Compatibility code is included, but this format has not yet been validated against a known classic bundle).
 - **Integrity Verification**: Automatic CRC-32 checksum calculation and verification for every extracted file.
 - **Safety Validations**:
   - Signature validation (`POTATO70`)
